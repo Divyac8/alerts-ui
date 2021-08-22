@@ -1,0 +1,29 @@
+/* .alert_radio_button {
+    display: inline-grid;
+    flex-direction: column
+}
+.radio_button_group{
+    padding: 0px 125px;
+    line-height: 30px;
+}
+.Search_Criteria_details{
+    padding: 0px 125px;
+}
+   */
+.alerts-table {
+border : 2px solid black;
+width: 40%;
+}
+
+.td {
+    height: 40%;
+}
+
+.example-full-width {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+}
+.alerts-screen {
+    padding: 40px;
+}
